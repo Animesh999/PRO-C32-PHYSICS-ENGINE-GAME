@@ -1,7 +1,6 @@
 # Tower Siege Game
  
-## How do I play this game?
-Drag the hexagonal stone, aim it properly, and release it at the blocks! Watch and enjoy how the objects move like real-life objects.
+## How do I play this game?objects move like real-life objects.
 
 ## What is the maximum number of points I can get?
 You can get upto __360__ points.
